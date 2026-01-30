@@ -1,2 +1,3 @@
 Adicionando modificações
 Fazendo alterações para um novo commit
+Adicionando novas alterações para teste de commit
