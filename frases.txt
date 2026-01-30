@@ -1,3 +1,4 @@
 Adicionando modificações
-Fazendo alterações para um novo commit
+Fazendo alterações para um novo commitclar
 Adicionando novas alterações para teste de commit
+teste de github
